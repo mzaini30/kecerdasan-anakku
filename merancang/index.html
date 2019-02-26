@@ -1,3 +1,41 @@
+---
+linguistik:
+  - Suka menulis kreatif di rumah
+  - Mengarang kisah khayal atau menuturkan lelucon dan cerita
+  - Sangat hafal nama, tempat, tanggal, atau hal-hal kecil
+  - Menikmati membaca buku di waktu senggang
+  - Mengeja kata-kata dengan tepat dan mudah
+  - Menyukai pantun lucu dan permainan kata
+  - Suka mengisi teka-teki silang atau melakukan permainan seperti Scrabble atau Anagram
+  - Menikmati mendengarkan kata-kata lisan (cerita, program radio, pembacaan buku, dan sebagainya)
+  - Mempunyai kosakata yang luas untuk anak seusianya
+  - Unggul dalam pelajaran sekolah yang melibatkan membaca dan/atau menulis
+
+logis_matematis:
+  - Menghitung problem aritmetika dengan cepat di luar kepala
+  - Menikmati menggunakan bahasa komputer atau program software logika
+  - Mengajukan pertanyaan seperti "Di mana akhir alam semesta?" atau "Mengapa langit biru?"
+  - Ahli bermain catur, dam, atau permainan strategi lain
+  - Menjelaskan masalah secara logis
+  - Merancang eksperimen untuk menguji hal-hal yang tidak dimengerti
+  - Menghabiskan banyak waktu memainkan teka-teki logika seperti kubus Rubik atau permainan logika
+  - Suka menyusun dalam kategori atau hierarki
+  - Mudah memahami sebab dan akibat
+  - Menikmati pelajaran matematika dan IPA dan berprestasi tinggi
+
+spasial:
+  - Menonjol dalam kelas seni di sekolah
+  - Memberikan gambaran visual yang jelas ketika sedang memikirkan sesuatu
+  - Mudah membaca peta, grafik, dan diagram
+  - Menggambar sosok orang atau benda yang persis aslinya
+  - Senang melihat film, slide, atau foto
+  - Menikmati melakukan teka-teki jigsaw, maze, atau kegiatan visual lain
+  - Sering melamun
+  - Membangun konstruksi tiga dimensi yang menarik (contoh, bangunan Lego)
+  - Mencoret-coret di atas secarik kertas atau di buku tugas sekolah
+  - Lebih banyak memahami lewat gambar daripada lewat kata-kata ketika sedang membaca
+---
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -30,17 +68,17 @@
 	</div>
 
 	<div class="container">
-		<canvas id="myChart" width="400" height="400"></canvas>		
+		<p><strong>Kecerdasan Linguistik</strong></p>
+		<div class="linguistik">
+			{% for x in page.linguistik %}
+				<div class="checkbox"><label><input type="checkbox">{{ x }}</label></div>
+			{% endfor %}
+		</div>
 	</div>
-
-	<h1>Kecerdasan Linguistik</h1>
-
-	
 
 	<br>
 	<script type="text/javascript" src="vendor/jquery/jquery.min.js"></script>
 	<script type="text/javascript" src="vendor/bootstrap/js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="vendor/chart/Chart.min.js"></script>
 	<script type="text/javascript" src="app/app.js"></script>
 </body>
 </html>
