@@ -1,88 +1,88 @@
-1. Kecerdasan Linguistik
-	a. Suka menulis kreatif di rumah
-	b. Mengarang kisah khayal atau menuturkan lelucon dan cerita
-	c. Sangat hafal nama, tempat, tanggal, atau hal-hal kecil
-	d. Menikmati membaca buku di waktu senggang
-	e. Mengeja kata-kata dengan tepat dan mudah
-	f. Menyukai pantun lucu dan permainan kata
-	g. Suka mengisi teka-teki silang atau melakukan permainan seperti Scrabble atau Anagram
-	h. Menikmati mendengarkan kata-kata lisan (cerita, program radio, pembacaan buku, dan sebagainya)
-	i. Mempunyai kosakata yang luas untuk anak seusianya
-	j. Unggul dalam pelajaran sekolah yang melibatkan membaca dan/atau menulis
-2. Kecerdasan Logis-Matematis
-	a. Menghitung problem aritmetika dengan cepat di luar kepala
-	b. Menikmati menggunakan bahasa komputer atau program software logika
-	c. Mengajukan pertanyaan seperti "Di mana akhir alam semesta?" atau "Mengapa langit biru?"
-	d. Ahli bermain catur, dam, atau permainan strategi lain
-	e. Menjelaskan masalah secara logis
-	f. Merancang eksperimen untuk menguji hal-hal yang tidak dimengerti
-	g. Menghabiskan banyak waktu memainkan teka-teki logika seperti kubus Rubik atau permainan logika
-	h. Suka menyusun dalam kategori atau hierarki
-	i. Mudah memahami sebab dan akibat
-	j. Menikmati pelajaran matematika dan IPA dan berprestasi tinggi
-3. Kecerdasan Spasial
-	a. Menonjol dalam kelas seni di sekolah
-	b. Memberikan gambaran visual yang jelas ketika sedang memikirkan sesuatu
-	c. Mudah membaca peta, grafik, dan diagram
-	d. Menggambar sosok orang atau benda yang persis aslinya
-	e. Senang melihat film, slide, atau foto
-	f. Menikmati melakukan teka-teki jigsaw, maze, atau kegiatan visual lain
-	g. Sering melamun
-	h. Membangun konstruksi tiga dimensi yang menarik (contoh, bangunan Lego)
-	i. Mencoret-coret di atas secarik kertas atau di buku tugas sekolah
-	j. Lebih banyak memahami lewat gambar daripada lewat kata-kata ketika sedang membaca
-4. Kecerdasan Kinestetik-Jasmani
-	a. Berprestasi dalam olahraga kompetitif di sekolah atau di lingkungan pemukiman
-	b. Bergerak-gerak ketika sedang duduk
-	c. Terlibat dalam kegiatan fisik seperti berenang, bersepeda, hiking, atau bermain skateboard
-	d. Perlu menyentuh sesuatu yang ingin dipelajari
-	e. Menikmati melompat, lari, gulat, atau kegiatan serupa (jika berusia lebih tua, mungkin menunjukkan kecenderungan ini dengan cara yang lebih tersamar)
-	f. Memperlihatkan keterampilan dalam bidang kerajinan tangan seperti kerajinan kayu, menjahit, mengukir, atau memahat
-	g. Pandai menirukan gerakan, kebiasaan, atau perilaku orang lain
-	h. Sering "merasakan" jawaban masalah yang dihadapi di rumah atau di sekolah
-	i. Menikmati bekerja dengan tanah liat, melukis dengan jari, atau kegiatan "kotor" lain
-	j. Sangat suka membongkar berbagai benda dan kemudian menyusunnya lagi
-5. Kecerdasan Musikal
-	a. Memainkan alat musik di rumah atau di sekolah, sebagai anggota band atau orkes
-	b. Ingat melodi lagu
-	c. Berprestasi sangat bagus di kelas musik di sekolah
-	d. Lebih bisa belajar dengan iringan musik
-	e. Mengoleksi CD atau kaset
-	f. Bernyanyi untuk diri sendiri atau untuk orang lain
-	g. Bisa mengikuti irama musik
-	h. Mempunyai suara yang bagus untuk bernyanyi
-	i. Peka terhadap suara-suara di lingkungannya
-	j. Memberikan reaksi yang kuat terhadap berbagai jenis musik
-6. Kecerdasan Antarpribadi
-	a. Mempunyai banyak teman
-	b. Banyak bersosialisasi di sekolah atau di lingkungan tempat tinggal
-	c. Tampak sangat mengenal lingkungannya
-	d. Terlibat dalam kegiatan kelompok di luar jam sekolah
-	e. Berperan sebagai "penengah keluarga" ketika terjadi pertikaian
-	f. Menikmati permainan kelompok
-	g. Berempati besar terhadap perasaan orang lain
-	h. Dicari sebagai "penasehat" atau "pemecah masalah" oleh teman-temannya
-	i. Menikmati mengajari orang lain
-	j. Tampak mempunyai bakat memimpin
-7. Kecerdasan Intrapribadi
-	a. Memperlihatkan sikap independen atau kemauan yang kuat
-	b. Bersikap realistis terhadap kekuatan dan kelemahannya
-	c. Memberikan reaksi keras ketika membahas topik-topik kontroversial
-	d. Bekerja atau belajar dengan baik seorang diri
-	e. Mempunyai rasa percaya diri
-	f. Mempunyai pandangan hidup yang lain dari pandangan umum
-	g. Belajar dari kesalahan masa lalu
-	h. Dengan tepat mengekspresikan perasaannya
-	i. Terarah pada pencapaian tujuan
-	j. Terlibat dalam hobi atau proyek yang dikerjakan sendiri
-8. Kecerdasan Naturalis
-	a. Akrab dengan hewan peliharaan
-	b. Menikmati berjalan-jalan di alam terbuka atau ke kebun binatang atau museum sejarah alam
-	c. Menunjukkan kepekaan terhadap bentuk-bentuk alam (misalnya, gunung, awan, atau, jika berada di lingkungan kota, mereka mungkin memperlihatkan kemampuan ini dalam kepekaan terhadap "bentuk-bentuk" budaya populer seperti misalnya sepatu kanvas, sampul CD, model mobil, dan sebagainya)
-	d. Suka berkebun atau berada dekat kebun
-	e. Menghabiskan waktu dekat akurium, terarium, atau sistem kehidupan alam lain
-	f. Memperlihatkan kesadaran ekologis (misalnya, melalui daur ulang, pelayanan masyarakat, dan sebagainya)
-	g. Yakin bahwa binatang mempunyai hak sendiri
-	h. Mencatat fenomena alam yang melibatkan hewan, tanaman, dan hal-hal sejenis (misalnya, mempunyai foto, buku harian, gambar, koleksi, dan sebagainya)
-	i. Membawa pulang serangga, bunga, daun atau benda-benda alam lain untuk diperlihatkan kepada anggota keluarga
-	j. Memperlihatkan pemahaman yang mendalam di sekolah dalam topik-topik yang melibatkan sistem kehidupan (misalnya, topik biologi dalam mata pelajaran IPA, topik lingkungan hidup dalam mata pelajaran IPS, dan sebagainya)
+linguistik:
+  - Suka menulis kreatif di rumah
+  - Mengarang kisah khayal atau menuturkan lelucon dan cerita
+  - Sangat hafal nama, tempat, tanggal, atau hal-hal kecil
+  - Menikmati membaca buku di waktu senggang
+  - Mengeja kata-kata dengan tepat dan mudah
+  - Menyukai pantun lucu dan permainan kata
+  - Suka mengisi teka-teki silang atau melakukan permainan seperti Scrabble atau Anagram
+  - Menikmati mendengarkan kata-kata lisan (cerita, program radio, pembacaan buku, dan sebagainya)
+  - Mempunyai kosakata yang luas untuk anak seusianya
+  - Unggul dalam pelajaran sekolah yang melibatkan membaca dan/atau menulis
+logis_matematis:
+  - Menghitung problem aritmetika dengan cepat di luar kepala
+  - Menikmati menggunakan bahasa komputer atau program software logika
+  - Mengajukan pertanyaan seperti "Di mana akhir alam semesta?" atau "Mengapa langit biru?"
+  - Ahli bermain catur, dam, atau permainan strategi lain
+  - Menjelaskan masalah secara logis
+  - Merancang eksperimen untuk menguji hal-hal yang tidak dimengerti
+  - Menghabiskan banyak waktu memainkan teka-teki logika seperti kubus Rubik atau permainan logika
+  - Suka menyusun dalam kategori atau hierarki
+  - Mudah memahami sebab dan akibat
+  - Menikmati pelajaran matematika dan IPA dan berprestasi tinggi
+spasial:
+  - Menonjol dalam kelas seni di sekolah
+  - Memberikan gambaran visual yang jelas ketika sedang memikirkan sesuatu
+  - Mudah membaca peta, grafik, dan diagram
+  - Menggambar sosok orang atau benda yang persis aslinya
+  - Senang melihat film, slide, atau foto
+  - Menikmati melakukan teka-teki jigsaw, maze, atau kegiatan visual lain
+  - Sering melamun
+  - Membangun konstruksi tiga dimensi yang menarik (contoh, bangunan Lego)
+  - Mencoret-coret di atas secarik kertas atau di buku tugas sekolah
+  - Lebih banyak memahami lewat gambar daripada lewat kata-kata ketika sedang membaca
+kinestetik_jasmani:
+  - Berprestasi dalam olahraga kompetitif di sekolah atau di lingkungan pemukiman
+  - Bergerak-gerak ketika sedang duduk
+  - Terlibat dalam kegiatan fisik seperti berenang, bersepeda, hiking, atau bermain skateboard
+  - Perlu menyentuh sesuatu yang ingin dipelajari
+  - Menikmati melompat, lari, gulat, atau kegiatan serupa (jika berusia lebih tua, mungkin menunjukkan kecenderungan ini dengan cara yang lebih tersamar)
+  - Memperlihatkan keterampilan dalam bidang kerajinan tangan seperti kerajinan kayu, menjahit, mengukir, atau memahat
+  - Pandai menirukan gerakan, kebiasaan, atau perilaku orang lain
+  - Sering "merasakan" jawaban masalah yang dihadapi di rumah atau di sekolah
+  - Menikmati bekerja dengan tanah liat, melukis dengan jari, atau kegiatan "kotor" lain
+  - Sangat suka membongkar berbagai benda dan kemudian menyusunnya lagi
+musikal:
+  - Memainkan alat musik di rumah atau di sekolah, sebagai anggota band atau orkes
+  - Ingat melodi lagu
+  - Berprestasi sangat bagus di kelas musik di sekolah
+  - Lebih bisa belajar dengan iringan musik
+  - Mengoleksi CD atau kaset
+  - Bernyanyi untuk diri sendiri atau untuk orang lain
+  - Bisa mengikuti irama musik
+  - Mempunyai suara yang bagus untuk bernyanyi
+  - Peka terhadap suara-suara di lingkungannya
+  - Memberikan reaksi yang kuat terhadap berbagai jenis musik
+antarpribadi:
+  - Mempunyai banyak teman
+  - Banyak bersosialisasi di sekolah atau di lingkungan tempat tinggal
+  - Tampak sangat mengenal lingkungannya
+  - Terlibat dalam kegiatan kelompok di luar jam sekolah
+  - Berperan sebagai "penengah keluarga" ketika terjadi pertikaian
+  - Menikmati permainan kelompok
+  - Berempati besar terhadap perasaan orang lain
+  - Dicari sebagai "penasehat" atau "pemecah masalah" oleh teman-temannya
+  - Menikmati mengajari orang lain
+  - Tampak mempunyai bakat memimpin
+intrapribadi:
+  - Memperlihatkan sikap independen atau kemauan yang kuat
+  - Bersikap realistis terhadap kekuatan dan kelemahannya
+  - Memberikan reaksi keras ketika membahas topik-topik kontroversial
+  - Bekerja atau belajar dengan baik seorang diri
+  - Mempunyai rasa percaya diri
+  - Mempunyai pandangan hidup yang lain dari pandangan umum
+  - Belajar dari kesalahan masa lalu
+  - Dengan tepat mengekspresikan perasaannya
+  - Terarah pada pencapaian tujuan
+  - Terlibat dalam hobi atau proyek yang dikerjakan sendiri
+naturalis:
+  - Akrab dengan hewan peliharaan
+  - Menikmati berjalan-jalan di alam terbuka atau ke kebun binatang atau museum sejarah alam
+  - Menunjukkan kepekaan terhadap bentuk-bentuk alam (misalnya, gunung, awan, atau, jika berada di lingkungan kota, mereka mungkin memperlihatkan kemampuan ini dalam kepekaan terhadap "bentuk-bentuk" budaya populer seperti misalnya sepatu kanvas, sampul CD, model mobil, dan sebagainya)
+  - Suka berkebun atau berada dekat kebun
+  - Menghabiskan waktu dekat akurium, terarium, atau sistem kehidupan alam lain
+  - Memperlihatkan kesadaran ekologis (misalnya, melalui daur ulang, pelayanan masyarakat, dan sebagainya)
+  - Yakin bahwa binatang mempunyai hak sendiri
+  - Mencatat fenomena alam yang melibatkan hewan, tanaman, dan hal-hal sejenis (misalnya, mempunyai foto, buku harian, gambar, koleksi, dan sebagainya)
+  - Membawa pulang serangga, bunga, daun atau benda-benda alam lain untuk diperlihatkan kepada anggota keluarga
+  - Memperlihatkan pemahaman yang mendalam di sekolah dalam topik-topik yang melibatkan sistem kehidupan (misalnya, topik biologi dalam mata pelajaran IPA, topik lingkungan hidup dalam mata pelajaran IPS, dan sebagainya)

@@ -5,3 +5,7 @@ body {
 .container {
 	max-width: 800px;
 }
+
+.tebal {
+	font-weight: bold;
+}
