@@ -70,7 +70,16 @@ spasial:
 	<div class="container">
 		<p><strong>Kecerdasan Linguistik</strong></p>
 		<div class="linguistik">
-			{% for x in page.linguistik %}
+			{% assign linguistik = page.linguistik | sort %}
+			{% for x in linguistik %}
+				<div class="checkbox"><label><input type="checkbox">{{ x }}</label></div>
+			{% endfor %}
+		</div>
+
+		<p><strong>Kecerdasan Logis-Matematis</strong></p>
+		<div class="logis-matematis">
+			{% assign logis_matematis = page.logis_matematis | sort %}
+			{% for x in logis_matematis %}
 				<div class="checkbox"><label><input type="checkbox">{{ x }}</label></div>
 			{% endfor %}
 		</div>
